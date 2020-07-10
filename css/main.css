@@ -12,8 +12,9 @@ footer {
 }
 
 .card-hotel{
-    flex: 1 150px;
+    flex: 1 200px;
     padding: 2px 8px 2px 15px;
+    margin-top: 10px;
     
 }
 
@@ -37,4 +38,13 @@ footer {
 .color-title{
 color: rgb(9, 95, 134);
 text-align-last: center;
+}
+.img-fluid{
+    width: 100%;
+    height: 100%;
+    height: 300px;
+}
+.card-img-top{
+    width: 100%;
+    height: 150px;
 }
